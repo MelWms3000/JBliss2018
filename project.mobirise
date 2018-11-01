@@ -34,12 +34,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/mbr-1920x1241-128x83.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 17,
-    "versionPublish": "4.8.6"
+    "uniqCompNum": 18,
+    "versionPublish": "4.8.6",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
@@ -1439,6 +1441,19 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {},
+          "_name": "content2",
+          "_customHTML": "{JS_CODE_0}",
+          "_cid": "r86x1ubq4u",
+          "_anchor": "content2-h",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '32c3be90-9ee3-4c5c-a048-63f8cfc05c8e', f: true }); done = true; } }; })();</script>"
+          ],
+          "_protectedParams": [],
           "_params": {}
         },
         {
