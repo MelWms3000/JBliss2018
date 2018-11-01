@@ -1459,7 +1459,7 @@
         {
           "_styles": {},
           "_name": "content7",
-          "_customHTML": "{JS_CODE_0}<a id=\"Setmore_button_iframe\" style=\"float:none; position:fixed; right:-2px; top: 25%; z-index:20000\" href=\"https://my.setmore.com/bookingpage/cdd3d982-a177-4a82-b872-fe04adf26ddb\"><img border=\"none\" src=\"@PROJECT_PATH@/assets/images/1booktoday-1-300x80.png\" alt=\"Book an appointment using SetMore\" title></a>",
+          "_customHTML": "{JS_CODE_0}<a id=\"Setmore_button_iframe\" style=\"float:none; position:fixed; right:-2px; top: 25%; z-index:20000\" href=\"https://my.setmore.com/bookingpage/cdd3d982-a177-4a82-b872-fe04adf26ddb\" target=\"_blank\"><img border=\"none\" src=\"@PROJECT_PATH@/assets/images/1booktoday-1-300x80.png\" alt=\"Book an appointment using SetMore\" title></a>",
           "_cid": "r85FByHjyq",
           "_anchor": "content7-f",
           "_PHPplaceholders": [],
